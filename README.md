@@ -114,6 +114,3 @@ All random seeds are fixed (`random_state=42`). The notebook runs end-to-end wit
 
 ---
 
-*Submitted by: [Your Name]*  
-*Role: Data Science Intern Applicant*  
-*Contact: [Your Email]*
