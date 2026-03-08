@@ -1,0 +1,23 @@
+Random Forest - Next-Day Profitability Prediction
+=======================================================
+
+Test Set Accuracy  : 67.0%
+ROC-AUC Score      : 0.707
+5-Fold CV Accuracy : 60.4% +/- 1.9%
+CV Fold Scores     : [np.float64(63.1), np.float64(59.6), np.float64(60.7), np.float64(57.2), np.float64(61.1)]
+
+Classification Report:
+-------------------------------------------------------
+                precision    recall  f1-score   support
+
+Not Profitable       0.62      0.45      0.52       184
+    Profitable       0.69      0.82      0.75       280
+
+      accuracy                           0.67       464
+     macro avg       0.65      0.63      0.63       464
+  weighted avg       0.66      0.67      0.66       464
+
+Confusion Matrix:
+-------------------------------------------------------
+[[ 82 102]
+ [ 51 229]]
