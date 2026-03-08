@@ -114,3 +114,9 @@ All random seeds are fixed (`random_state=42`). The notebook runs end-to-end wit
 
 ---
 
+## 🚀 Live Dashboard
+
+👉 Click here to explore the interactive dashboard (https://primetradeai-assignment-krgubf24e5mwlrberyu4pf.streamlit.app)
+
+```
+
